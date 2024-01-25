@@ -1,0 +1,33 @@
+#navbarSupportedContent {
+    justify-content: end;
+}
+
+.navbar {
+    align-items: start;
+}
+
+.navbar-custom {
+    padding: 25px 50px 0px 50px;
+}
+
+.navbar-brand {
+    width: 150px;
+}
+.nav-link {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    color: white;
+    height: fit-content;
+    width: fit-content;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
